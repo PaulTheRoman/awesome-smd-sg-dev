@@ -1,12 +1,12 @@
 # Awesome Sega Genesis / Mega Drive Development
 
-A curated list of awesome Sega Genesis / Mega Drive Development resources, tools, docs, related projects. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. (NOTE: Currently a work in progress. I'm using gbdev's awesome list as a template.)
+A curated list of awesome Sega Genesis / Mega Drive Development resources, tools, docs, related projects. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. (NOTE: Currently a work in progress. I'm using gbdev's awesome list as a template. Those links that have a DONE in the table of content are those sections I have finished.)
 
 ## Contents
 
 - [Introduction](#introduction)
   - [Disambiguation](#disambiguation)
-- [Communities](#communities)
+- [Communities](#communities) (DONE)
 - [Documentation](#documentation)
   - [Misc](#misc)
   - [Opcodes](#opcodes)
