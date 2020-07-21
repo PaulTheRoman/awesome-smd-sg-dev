@@ -26,7 +26,7 @@ A curated list of awesome Sega Genesis / Mega Drive Development resources, tools
 ## Tutorials
 - [MarkeyJester’s Motorola 68000 Beginner’s Tutorial](http://mrjester.hapisan.com/04_MC68/Index.html)
 - [Christopher Waite's Sega Mega Drive tutorial](https://www.bytesizeadventures.com/modern-mega-drive-programming-getting-started/)
-- HuguesJohnson's Sega Genesis Programming Tutorial
+### HuguesJohnson's Sega Genesis Programming Tutorials
 > - [Pt.1: Palettes](https://huguesjohnson.com/programming/genesis/palettes/)
 > - [Pt.2: Tiles & Sprites](https://huguesjohnson.com/programming/genesis/tiles-sprites/)
 > - [Pt.3: Sprite Animation](https://huguesjohnson.com/programming/genesis/animated-sprites/)
@@ -34,8 +34,8 @@ A curated list of awesome Sega Genesis / Mega Drive Development resources, tools
 > - [Pt.5: Collision Detection](https://huguesjohnson.com/programming/genesis/collision-detection/)
 > - [Pt.6: Vertical Scrolling](https://huguesjohnson.com/programming/genesis/vscroll/)
 > - [Pt.7: NPC Sprites](https://huguesjohnson.com/programming/genesis/npcs/)
-> - [Pt.1: Palettes](https://huguesjohnson.com/programming/genesis/palettes/)
-> - [Pt.1: Palettes](https://huguesjohnson.com/programming/genesis/palettes/)
+> - [Pt.8: Game State & Pause](https://huguesjohnson.com/programming/genesis/game-state/)
+> - [Pt.9: Palettes](https://huguesjohnson.com/programming/genesis/palettes/)
 > - [Pt.1: Palettes](https://huguesjohnson.com/programming/genesis/palettes/)
 > - [Pt.1: Palettes](https://huguesjohnson.com/programming/genesis/palettes/)
 > - [Pt.1: Palettes](https://huguesjohnson.com/programming/genesis/palettes/)
