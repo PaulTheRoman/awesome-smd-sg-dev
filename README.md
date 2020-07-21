@@ -1,6 +1,6 @@
 # Awesome Sega Genesis / Mega Drive Development
 
-A curated list of awesome Sega Genesis / Mega Drive Development resources, tools, docs, related projects. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. (NOTE: Currently a work in progress)
+A curated list of awesome Sega Genesis / Mega Drive Development resources, tools, docs, related projects. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. (NOTE: Currently a work in progress. I'm using gbdev's awesome list as a template.)
 
 ## Contents
 
@@ -68,12 +68,15 @@ A curated list of awesome Sega Genesis / Mega Drive Development resources, tools
 >
 >If you aim to develop your software for SGB or GBC, or you want to know how it runs on the other systems, you may want to take advantage and adapt to these differences, check the [Game Boy Color](#game-boy-color) category and look for specific references to GBC/CGB and SGB.
 
+## Communities
 
-## Community
-
-- [Discord Server](https://discord.gg/gpBxq85)
-- [IRC Channel](http://chat.efnet.org/?channels=gbdev) - `#gbdev` on EFNET.
-- [Forum](https://gbdev.gg8.se/forums/)
+- [Discord Server: SGDK](https://discord.gg/hpHesQG)
+- [Discord Server: ChibiAkumas](https://discord.gg/QYZUW5a)
+- [Discord Server: BlastEm](https://discord.gg/mQW4MKD)
+- [Discord Server: SegaNet](https://discord.gg/KzkE4Pq)
+- [Discord Server: SegaXtreme](https://discord.gg/C5TbdCH)
+- [Discord Server: Plutiedev](https://discord.gg/k79rzTz)
+- [Forum: SpritesMind](http://gendev.spritesmind.net/forum/)
 
 ## Documentation
 
