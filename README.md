@@ -6,7 +6,7 @@ A curated list of awesome Sega Genesis / Mega Drive Development resources, tools
 
 - [Introduction](#introduction)
   - [Disambiguation](#disambiguation)
-- [Community](#community)
+- [Communities](#communities)
 - [Documentation](#documentation)
   - [Misc](#misc)
   - [Opcodes](#opcodes)
