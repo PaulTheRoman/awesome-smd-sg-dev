@@ -10,7 +10,6 @@ A curated list of awesome Sega Genesis / Mega Drive Development resources, tools
 - [Documentation](#documentation)
   - [Misc](#misc)
   - [Opcodes](#opcodes)
-  - [Game Boy Color](#game-boy-color)
   - [Hardware](#hardware)
   - [Peripherals](#peripherals)
   - [Cartridges](#cartridges)
@@ -59,8 +58,6 @@ A curated list of awesome Sega Genesis / Mega Drive Development resources, tools
 ## Documentation
 
 #### Opcodes
-
-### Game Boy Color
 
 ### Hardware
 
