@@ -1,10 +1,6 @@
 # Awesome Sega Genesis / Mega Drive Development
 
-#### [Join us on Discord](https://discord.gg/gpBxq85) [![Discord Badge](https://img.shields.io/badge/dynamic/json.svg?label=chat&colorB=green&suffix=%20online&query=presence_count&uri=https://discordapp.com/api/guilds/303217943234215948/widget.json)](https://discord.gg/gpBxq85)
-
-A curated list of awesome Game Boy (Color) Development resources, tools, docs, related projects and open-source ROMs. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
-
-You can find a (way cooler) web version of this list [here](https://gbdev.github.io/list.html).
+A curated list of awesome Sega Genesis / Mega Drive Development resources, tools, docs, related projects. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. (NOTE: Currently a work in progress)
 
 ## Contents
 
