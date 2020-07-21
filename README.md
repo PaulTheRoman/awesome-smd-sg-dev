@@ -5,117 +5,42 @@ A curated list of awesome Sega Genesis / Mega Drive Development resources, tools
 ## Contents
 
 - [Introduction](#introduction)
-  - [Disambiguation](#disambiguation)
-- [Communities](#communities) (DONE)
-- [Documentation](#documentation)
-  - [Misc](#misc)
-  - [Opcodes](#opcodes)
-  - [Hardware](#hardware)
-  - [Peripherals](#peripherals)
-  - [Cartridges](#cartridges)
-- [Emulator Development](#emulator-development)
-  - [Testing](#testing)
-- [Software Development](#software-development)
-  - [Assemblers](#assemblers)
-  - [Compilers](#compilers)
-    - [Experimental/Proof of Concepts](#experimentalproof-of-concepts)
-  - [Emulators](#emulators)
-  - [Tools](#tools)
-- [Programming](#programming)
-  - [ASM](#asm)
-    - [Sources](#sources)
-    - [Timings](#timings)
-    - [Boilerplates](#boilerplates)
-    - [Syntax highlighting packages](#syntax-highlighting-packages)
-  - [C](#c)
-- [Homebrews](#homebrews)
-  - [ASM](#asm-1)
-  - [C](#c-1)
-  - [Demos](#demos)
-- [Reverse Engineering](#reverse-engineering)
-  - [Game Disassemblies](#game-disassemblies)
-- [Related projects](#related-projects)
-  - [Directories](#directories)
-  - [Websites](#websites)
+- [Communities](#communities)
 - [About](#about)
   - [Contribute](#contribute)
   - [License](#license)
   - [Acknowledgements](#acknowledgements)
-  - [Sponsors](#sponsors)
 
 ## Introduction
 
 ## Communities
 
-- [Discord Server: SGDK](https://discord.gg/hpHesQG)
-- [Discord Server: ChibiAkumas](https://discord.gg/QYZUW5a)
-- [Discord Server: BlastEm](https://discord.gg/mQW4MKD)
-- [Discord Server: SegaNet](https://discord.gg/KzkE4Pq)
-- [Discord Server: SegaXtreme](https://discord.gg/C5TbdCH)
-- [Discord Server: Plutiedev](https://discord.gg/k79rzTz)
-- [Forum: SpritesMind](http://gendev.spritesmind.net/forum/)
+- [Discord Server: SGDK](https://discord.gg/hpHesQG) Official server of the SGDK. SGDK is a software framework for creating Sega Genesis / Mega Drive games with C.
+- [Discord Server: ChibiAkumas](https://discord.gg/QYZUW5a) Server that focuses on assembly code on retro systems (and some modern).
+- [Discord Server: BlastEm](https://discord.gg/mQW4MKD) Official server of the open-source BlastEm emulator.
+- [Discord Server: SegaNet](https://discord.gg/KzkE4Pq) Official home of the SEGA, Dreamcast, SegaSaturn, MegaDrive, SegaGenesis, Sega32X, SegaCD, MegaCD, MasterSystem, SG1000, Game_Gear, SMSGG, and SegaPico subreddits.
+- [Discord Server: SegaXtreme](https://discord.gg/C5TbdCH) Server that focuses on developing for Sega consoles.
+- [Discord Server: Plutiedev](https://discord.gg/k79rzTz) Official server of https://plutiedev.com/, a website that has a lot of technical information on the Sega Genesis
+- [Forum: SpritesMind](http://gendev.spritesmind.net/forum/) Forum that has a focus on developing and learning about the Sega Genesis and it's peripherals.
 
-## Documentation
-
-#### Opcodes
-
-### Hardware
-
-### Peripherals
-
-### Cartridges
-
-#### Custom cartridges
-
-#### Misc
-
-## Emulator Development
-
-### Testing
-
-## Software Development
-
-### Assemblers
-
-### Compilers
-
-#### Experimental/Proof of Concepts
-
-### Emulators
-
-### Tools
-
-## Programming
-
-### ASM
-
-#### Sources
-
-#### Timings
-
-#### Boilerplates and libraries
-
-#### Syntax highlighting packages
-
-### C
-
-## Homebrews
-
-### ASM
-
-### C
-
-### Demos
-
-## Reverse Engineering
-
-### Game Disassemblies
-
-## Related projects
-
-### Directories
-
-### Websites
+## Tutorials
+- [MarkeyJester’s Motorola 68000 Beginner’s Tutorial](http://mrjester.hapisan.com/04_MC68/Index.html)
+- [Christopher Waite's Sega Mega Drive tutorial](https://www.bytesizeadventures.com/modern-mega-drive-programming-getting-started/)
+- [HuguesJohnson's Sega Genesis Programming Tutorial Pt.1: Palettes](https://huguesjohnson.com/programming/genesis/palettes/)
+> - [HuguesJohnson's Sega Genesis Programming Tutorial Pt.2: Tiles & Sprites](https://huguesjohnson.com/programming/genesis/tiles-sprites/)
+> - [HuguesJohnson's Sega Genesis Programming Tutorial Pt.3: Sprite Animation](https://huguesjohnson.com/programming/genesis/animated-sprites/)
+> - [HuguesJohnson's Sega Genesis Programming Tutorial Pt.4: Echo Sound Engine](https://huguesjohnson.com/programming/genesis/echo/)
+> - [HuguesJohnson's Sega Genesis Programming Tutorial Pt.5: Collision Detection](https://huguesjohnson.com/programming/genesis/collision-detection/)
+> - [HuguesJohnson's Sega Genesis Programming Tutorial Pt.6: Vertical Scrolling](https://huguesjohnson.com/programming/genesis/vscroll/)
+> - [HuguesJohnson's Sega Genesis Programming Tutorial Pt.7: NPC Sprites](https://huguesjohnson.com/programming/genesis/npcs/)
+> - [HuguesJohnson's Sega Genesis Programming Tutorial Pt.1: Palettes](https://huguesjohnson.com/programming/genesis/palettes/)
+> - [HuguesJohnson's Sega Genesis Programming Tutorial Pt.1: Palettes](https://huguesjohnson.com/programming/genesis/palettes/)
+> - [HuguesJohnson's Sega Genesis Programming Tutorial Pt.1: Palettes](https://huguesjohnson.com/programming/genesis/palettes/)
+> - [HuguesJohnson's Sega Genesis Programming Tutorial Pt.1: Palettes](https://huguesjohnson.com/programming/genesis/palettes/)
+> - [HuguesJohnson's Sega Genesis Programming Tutorial Pt.1: Palettes](https://huguesjohnson.com/programming/genesis/palettes/)
+> - [HuguesJohnson's Sega Genesis Programming Tutorial Pt.1: Palettes](https://huguesjohnson.com/programming/genesis/palettes/)
+- []()
+- []()
 
 ## About
 
@@ -130,5 +55,4 @@ See [LICENSE](LICENSE) for more information.
 
 ### Acknowledgements
 
-### Sponsors
 
