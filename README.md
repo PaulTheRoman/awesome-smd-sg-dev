@@ -1,4 +1,4 @@
-# ![GameboyIcon](http://i.imgur.com/ROUq7NT.gif) Awesome Game Boy Development
+# ![SegaGenesisIcon](https://cdn0.iconfinder.com/data/icons/console-game-evolution/64/sega_genesis_2_console_game_evolution-512.png) Awesome Sega Genesis / Mega Drive Development
 
 #### [Join us on Discord](https://discord.gg/gpBxq85) [![Discord Badge](https://img.shields.io/badge/dynamic/json.svg?label=chat&colorB=green&suffix=%20online&query=presence_count&uri=https://discordapp.com/api/guilds/303217943234215948/widget.json)](https://discord.gg/gpBxq85)
 
