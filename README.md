@@ -59,7 +59,7 @@ A curated list of awesome Sega Genesis / Mega Drive Development resources, tools
 > - [Pt. 8: The MULU & MULS Instructions](http://mrjester.hapisan.com/04_MC68/Sect04Part08/Index.html)
 > - [Pt. 9: The DIVU & DIVS Instruction](http://mrjester.hapisan.com/04_MC68/Sect04Part09/Index.html)
 > - [Pt. 10: Homework Results 04](http://mrjester.hapisan.com/04_MC68/Sect04Part10/Index.html)
-#### Section 05 - Program Flow Change
+> #### Section 05 - Program Flow Change
 > - [Pt. 1: The PC (Program Counter)](http://mrjester.hapisan.com/04_MC68/Sect05Part01/Index.html)
 > - [Pt. 2: The JMP Instruction](http://mrjester.hapisan.com/04_MC68/Sect05Part02/Index.html)
 > - [Pt. 3: The BRA Instruction](http://mrjester.hapisan.com/04_MC68/Sect05Part03/Index.html)
