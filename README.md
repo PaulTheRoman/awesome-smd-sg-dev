@@ -24,7 +24,7 @@ A curated list of awesome Sega Genesis / Mega Drive Development resources, tools
 - [Forum: SpritesMind](http://gendev.spritesmind.net/forum/) | Forum that has a focus on developing and learning about the Sega Genesis and it's peripherals.
 
 ## Tutorials
-- [Christopher Waite's Sega Mega Drive tutorial](https://www.bytesizeadventures.com/modern-mega-drive-programming-getting-started/)
+- [Christopher Waite's Sega Mega Drive tutorial (C)](https://www.bytesizeadventures.com/modern-mega-drive-programming-getting-started/)
 ### [MarkeyJester’s Motorola 68000 Beginner’s Tutorial](http://mrjester.hapisan.com/04_MC68/Index.html)
 #### Section 01 - Getting Started
 > - [Pt. 1: Computer Memory](http://mrjester.hapisan.com/04_MC68/Sect01Part01/Index.html)
@@ -80,7 +80,7 @@ A curated list of awesome Sega Genesis / Mega Drive Development resources, tools
 > - [Pt. 2: The SVC, SVS, ST, and SF Instructions](http://mrjester.hapisan.com/04_MC68/Sect07Part02/Index.html)
 > - [Pt. 3: Signed Sets (SGE, SGT, SLE, SLT)](http://mrjester.hapisan.com/04_MC68/Sect07Part03/Index.html)
 > - [Pt. 4: Unsigned Sets (SCC, SHI, SLS, SCS)](http://mrjester.hapisan.com/04_MC68/Sect07Part04/Index.html)
-### HuguesJohnson's Sega Genesis Programming Tutorials
+### HuguesJohnson's Sega Genesis Programming Tutorials (ASM)
 > - [Pt. 1: Palettes](https://huguesjohnson.com/programming/genesis/palettes/)
 > - [Pt. 2: Tiles & Sprites](https://huguesjohnson.com/programming/genesis/tiles-sprites/)
 > - [Pt. 3: Sprite Animation](https://huguesjohnson.com/programming/genesis/animated-sprites/)
@@ -103,9 +103,6 @@ A curated list of awesome Sega Genesis / Mega Drive Development resources, tools
 > - [Pt. 20: Palette & Tile Generation](https://huguesjohnson.com/programming/genesis/palette-tile-generation/)
 > - [Pt. 21: VDP Sprite Collision](https://huguesjohnson.com/programming/genesis/collision-vdp/)
 > - [Pt. 22: 4-way Play](https://huguesjohnson.com/programming/genesis/4way/)
-###
-- []()
-- []()
 
 ## About
 
